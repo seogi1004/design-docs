@@ -1,0 +1,22 @@
+:root {
+    --primary-100: var(--blue-100);
+    --primary-200: var(--blue-200);
+    --primary-300: var(--blue-300);
+    --primary-400: var(--blue-400);
+    --primary-500: var(--blue-500);
+    --primary-600: var(--blue-600);
+    --primary-700: var(--blue-700);
+    --primary-800: var(--blue-800);
+    --primary-900: var(--blue-900);
+
+    --overlay-primary-100: var(--overlay-blue-100);
+    --overlay-primary-200: var(--overlay-blue-200);
+    --overlay-primary-300: var(--overlay-blue-300);
+    --overlay-primary-400: var(--overlay-blue-400);
+    --overlay-primary-500: var(--overlay-blue-500);
+    --overlay-primary-600: var(--overlay-blue-600);
+    --overlay-primary-700: var(--overlay-blue-700);
+    --overlay-primary-800: var(--overlay-blue-800);
+    --overlay-primary-900: var(--overlay-blue-900);
+
+}

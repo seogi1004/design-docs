@@ -1,0 +1,1 @@
+import{d as r,e as h,i,k as n}from"./framework.DjqXF1Yh.js";const s=["width","height"],l=r({__name:"arrow-drop-down",props:{width:{},height:{}},setup(o){const t=o;return(a,e)=>(h(),i("svg",{width:t.width,height:t.height,xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24"},e[0]||(e[0]=[n("path",{fill:"currentColor",d:"M7 10l5 5 5-5z"},null,-1)]),8,s))}});export{l as default};
